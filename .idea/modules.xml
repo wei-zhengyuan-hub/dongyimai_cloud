@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_common/dongyimai_common.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_common/dongyimai_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_dao/dongyimai_dao.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_dao/dongyimai_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_parent.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_pojo/dongyimai_pojo.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_pojo/dongyimai_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_register/dongyimai_register.iml" filepath="$PROJECT_DIR$/dongyimai_register/dongyimai_register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_sellergoods_interface/dongyimai_sellergoods_interface.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_sellergoods_interface/dongyimai_sellergoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongyimai_parent/dongyimai_sellergoods_service/dongyimai_sellergoods_service.iml" filepath="$PROJECT_DIR$/dongyimai_parent/dongyimai_sellergoods_service/dongyimai_sellergoods_service.iml" />
+    </modules>
+  </component>
+</project>
